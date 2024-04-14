@@ -1,0 +1,5 @@
+Output/*.rds
+Output/*.png
+*.pdf
+.Rhistory
+*.html
